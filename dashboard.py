@@ -1,3 +1,11 @@
+# Here is the code for the dashboard:
+
+# 🔗 LINK TO DEPLOYED DASHBOARD: https://statistella-db.streamlit.app/ 🌐
+
+# You can view the deployed dashboard from the above link! You don't need to run the code for it.
+
+# Here is the associated GitHub repository: https://github.com/sakshikumar19/Statistella-Banking-Customer-Analytics-Dashboard 📂
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
