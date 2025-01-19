@@ -1,0 +1,35 @@
+RowNumber: Serial number of the record.
+
+CustomerId: Unique identification number assigned to each customer.
+
+Surname: The last name of the customer.
+
+CreditScore: The creditworthiness score of the customer.
+
+Geography: The country/region where the customer resides.
+
+Gender: The gender of the customer.
+
+Age: The age of the customer.
+
+Tenure: The number of years the customer has been with the bank.
+
+Balance: The current balance in the customer's account.
+
+NumOfProducts: The number of products that a customer has purchased through the bank.
+
+HasCrCard: Indicates whether or not a customer has a credit card.
+
+IsActiveMember: Indicates whether a customer is frequently engaging with the bank's services.
+
+EstimatedSalary: The approximate annual income of the customer.
+
+Exited: Indicates whether or not the customer has left the bank.
+
+Complain: Indicates whether the customer has previously lodged a complaint.
+
+Satisfaction Score: A score provided by the customer based on their satisfaction with complaint resolution.
+
+Card Type: The type of card held by the customer (e.g., different types of credit card and debit card).
+
+Points Earned: The total points accumulated by the customer for using their cards.
